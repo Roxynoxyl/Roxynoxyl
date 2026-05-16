@@ -3,7 +3,7 @@
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://camo.githubusercontent.com/519e4514d5c70e65458941e3fa3909ec9e3e04718e44e5beb37a325c5e13c05a/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6361747070756363696e5f6d6f636861" width="500" height="100" style="display:inline-block"/>
   </a>
-  <img src="" width="150" height="100" style="display:inline-block"/>
+  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="150" height="100" style="display:inline-block"/>
 </p>
 
 
